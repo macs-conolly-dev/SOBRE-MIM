@@ -174,15 +174,6 @@ h2{ font-family: var(--font-head); font-size:28px; font-weight:800; margin-top:8
 .seta{ transition: transform .2s ease; }
 .card-link:hover .seta{ transform: translateX(2px); }
 
-.card-placeholder{
-  border-style: dashed;
-  background: transparent;
-}
-.card-placeholder:hover{ transform:none; border-color: var(--border); }
-.card-placeholder .card-tag{ color: var(--ink-dim); }
-.card-placeholder h3{ color: var(--ink-dim); }
-.card-placeholder p{ margin-bottom:0; }
-
 footer{ padding:80px 0 50px; }
 .contato-links{ margin-top:22px; display:flex; gap:22px; flex-wrap:wrap; }
 .contato-links a{
