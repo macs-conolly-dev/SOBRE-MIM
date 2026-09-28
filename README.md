@@ -1,42 +1,64 @@
-# 👋 Sobre Mim — Portfólio
+# 👋 Sobre Mim — Portfólio pessoal
 
-🔗 **Acesse:** [macs-conolly-dev.github.io/SOBRE-MIM](https://macs-conolly-dev.github.io/SOBRE-MIM/)
+Página de apresentação onde reúno quem eu sou, as tecnologias que estou aprendendo e meus projetos. Feita do zero com **HTML, CSS e JavaScript puro**, sem frameworks.
 
-Este projeto é meu portfólio pessoal, criado para me apresentar, compartilhar um pouco da minha trajetória e mostrar meus projetos que venho desenvolvendo enquanto evoluo na área de programação.
-
-## ✨ Funcionalidades
-
-* ⌨️ Efeito de digitação no cargo, com cursor piscando
-* 🔤 Animação letra por letra no nome
-* ✨ Seções com animações ao rolar a página
-* 🧭 Navbar fixa com efeito de desfoque
-* 📱 Layout responsivo para diferentes tamanhos de tela
-* 🗂️ Grid de projetos responsivo utilizando `auto-fit`
-
-## 🛠️ Tecnologias
-
-* HTML5
-* CSS3
-* JavaScript
-* GitHub Pages
-
-## 💡 O que aprendi
-
-Durante o desenvolvimento deste projeto, pratiquei conceitos que quero continuar utilizando em outros projetos, como:
-
-* Variáveis CSS para facilitar a organização e manutenção dos estilos
-* Animações utilizando `@keyframes`
-* CSS Grid com `auto-fit` para criar layouts responsivos
-* Manipulação do DOM com JavaScript
-* Criação de interações e animações utilizando JavaScript
-* Publicação e deploy de um projeto utilizando GitHub Pages
-
-## 👤 Autor
-
-Feito por **Matheus Conolly**.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/matheus-conolly-dev/) · [GitHub](https://github.com/macs-conolly-dev)
+🔗 **Acesse:** _(link do deploy aqui)_
 
 ---
 
-⭐ Este projeto representa uma parte da minha evolução como desenvolvedor e reúne algumas das tecnologias e conceitos que venho praticando.
+## ✨ Funcionalidades
+
+- ⌨️ Efeito de digitação no subtítulo, alternando entre frases
+- 🔤 Animação letra por letra no nome
+- 👀 Seções que aparecem ao rolar a página (`IntersectionObserver`)
+- 🫧 Fundo com formas que reagem ao movimento do mouse
+- 🃏 Cards de projeto com efeito 3D ao passar o mouse
+- 📱 Layout responsivo
+
+---
+
+## 🛠️ Tecnologias
+
+- **HTML5** — estrutura semântica (`nav`, `header`, `section`, `article`, `footer`)
+- **CSS3** — layout, animações e variáveis
+- **JavaScript** — interações e animações, sem bibliotecas externas
+- **Google Fonts** — Manrope e Inter
+
+---
+
+## ▶️ Como rodar
+
+Não precisa instalar nada:
+
+```bash
+git clone https://github.com/macs-conolly-dev/SOBRE-MIM.git
+cd SOBRE-MIM
+```
+
+Depois é só abrir o `index.html` no navegador (ou usar a extensão Live Server no VS Code).
+
+---
+
+## 📁 Estrutura
+
+```
+SOBRE-MIM/
+├── index.html   # estrutura e conteúdo da página
+├── style.css    # estilos e animações
+├── script.js    # digitação, reveal ao rolar e efeitos de mouse
+└── avatar.jpg   # foto de perfil
+```
+
+---
+
+## 🚀 Próximos passos
+
+- Adicionar os projetos em equipe (Raízes PE e HemoChain)
+- Alternar tema claro/escuro
+- Melhorar acessibilidade (respeitar `prefers-reduced-motion`)
+
+---
+
+## 👤 Autor
+
+Feito por **Matheus Conolly** — [LinkedIn](https://www.linkedin.com/in/matheus-conolly-dev/) · [GitHub](https://github.com/macs-conolly-dev)
