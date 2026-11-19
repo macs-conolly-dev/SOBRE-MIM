@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   const typingEl = document.getElementById('typing');
-  const frases = ['Estudante de ADS', 'Full Stack em formação', 'Sempre aprendendo'];
+  const frases = ['Estudante de ADS', 'Dev em formação', 'Dados & IA'];
 
   if (typingEl) {
     let fraseIndex = 0;
