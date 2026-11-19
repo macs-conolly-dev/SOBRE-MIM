@@ -2,7 +2,7 @@
 
 Página de apresentação onde reúno quem eu sou, as tecnologias que estou aprendendo e meus projetos. Feita do zero com **HTML, CSS e JavaScript puro**, sem frameworks.
 
-🔗 **Acesse:** _(link do deploy aqui)_
+🔗 **Acesse:** https://macs-conolly-dev.github.io/SOBRE-MIM/
 
 ---
 
@@ -53,7 +53,6 @@ SOBRE-MIM/
 
 ## 🚀 Próximos passos
 
-- Adicionar os projetos em equipe (Raízes PE e HemoChain)
 - Alternar tema claro/escuro
 - Melhorar acessibilidade (respeitar `prefers-reduced-motion`)
 
